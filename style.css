@@ -1,0 +1,52 @@
+*{
+margin: 0;
+padding: 0;
+background-color: rgb(0, 0, 0) ;
+color:white
+}
+
+.retalho{
+    display: flex;
+    justify-content: space-around;
+    padding: 24px 0;
+}
+
+.retalho-imagem{
+    width: 20%;
+
+}
+.retalho1-imagem{
+    display: flex;
+}
+.retalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+
+}
+.batman-texto-um{
+    font-size: x-large;
+    text-decoration: dotted;
+}
+.batman-texto-dois{
+    font-size: x-large;
+    text-decoration: dotted;
+    text-shadow: 10cap;
+}
+.xitaozao{
+
+    padding: 10px ; 
+    
+}
+.retalho1-imagem{
+    width: 20%;
+}
+.marcelo{
+    width: 250px;
+}
+.insta{
+    width: 35px;
+}
+.baner{
+    width:250px ;
+}
